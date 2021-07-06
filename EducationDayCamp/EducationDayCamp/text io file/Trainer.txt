@@ -1,0 +1,6 @@
+John  Male  0128776878  Fitness Camp  3  100  60  360.0  
+________
+David  Male  0728766753  Survivalist Camp  3  150  60  510.0  
+________
+Sri  Female  097386376  Leadership Camp  3  150  50  500.0  
+________
